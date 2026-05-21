@@ -14,6 +14,8 @@
 
 ![Dashboard Demo](assets/dashboard_demo.gif)
 
+---
+
 ## 📸 Dashboard Preview
 
 ![Dashboard Overview](assets/dashboard_overview.png)
