@@ -2,13 +2,17 @@
 
 > **Power BI · DAX · Star Schema · Single-Page Design · Skill Intelligence · 2024 Job Postings**
 
----
+## 🌐 Live Interactive Dashboard
+
+[![View in Power BI](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYjRjYmY2MDAtZTk2NC00YWM3LTkwZWQtOGU1NWM5YTM5OTM0IiwidCI6ImU5ODI3YzRkLWU5NDEtNDM1OC05ZmY1LTZhNDI1YTBmZDQzMiJ9)
+
+> Click above to explore the fully interactive V2.0 dashboard on Power BI 
+> Service — filter by job title and country, toggle between skill count 
+> and job percent views. No download required.
 
 ## 🎬 Dashboard Demo
 
-> *Add your GIF or video here after recording — see setup guide*
-
----
+![Dashboard Demo](assets/dashboard_demo.gif)
 
 ## 📸 Dashboard Preview
 
