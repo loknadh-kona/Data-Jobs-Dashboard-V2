@@ -221,10 +221,4 @@ Horizontal bar chart comparing median salaries across all roles:
 
 📁 [Data Jobs Dashboard V1.0](https://github.com/KrishnaSai315/data-jobs-market-dashboard) — Two-page version with drill-through navigation and geospatial map analysis
 
----
 
-## 📬 Connect
-
-**Loknadh Venkata Krishna Sai Kona**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lvkrishna3/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:loknadh.kona@gmail.com)
